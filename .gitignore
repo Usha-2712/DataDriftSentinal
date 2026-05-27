@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data & reports (don’t version run artifacts)
+reports/
+events/
+metrics/
+data/stream.csv
+
+# OS/editor
+.DS_Store
+.vscode/

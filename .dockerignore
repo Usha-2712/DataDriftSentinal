@@ -1,0 +1,19 @@
+# Python/venv
+.venv*
+__pycache__/
+*.pyc
+
+# Local artifacts
+reports/
+events/
+metrics/
+data/stream.csv
+
+# VCS / CI
+.git
+.gitignore
+.gitlab-ci.yml
+
+# OS/editor
+.DS_Store
+.vscode/
